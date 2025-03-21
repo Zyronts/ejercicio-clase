@@ -10,6 +10,7 @@ public class Ejercicio4 {
             System.out.println("Debe abonar impuestos");
             
         }
+        input.close();
 
     }
 }
